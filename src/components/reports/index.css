@@ -1,0 +1,26 @@
+
+  .root {
+    display: flex !important;
+    flex-grow: 1 !important;
+  }
+
+  #tableHead{
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    color: #5c068c;
+  }
+
+  #headerNavegation{
+    margin-top: -5px;
+    color: gray !important;
+  }
+
+  .tableRow {
+    cursor: pointer;
+  }
+  .tableRow:hover {
+
+      background-color: rgb(233, 233, 233);
+  
+  }

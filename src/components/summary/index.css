@@ -1,0 +1,15 @@
+.withInput {
+    width: 100%;
+    height: 40px;
+  
+}
+
+.root {
+    display: flex !important;
+    flex-grow: 1 !important;
+}
+
+#headerNavegation{
+
+    color: gray !important;
+  }
